@@ -2,7 +2,7 @@
   "development": {
     "username": "postgres",
     "password": "postgres",
-    "database": "PalmPayMiddleware",
+    "database": "PA28Database",
     "host": "localhost",
     "dialect": "postgres",
     "logging": false
